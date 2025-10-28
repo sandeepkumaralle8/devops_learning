@@ -1,0 +1,14 @@
+ 1  git init
+    2  touch files1
+    3  git add file1
+    4  git add files1
+    5  git branch
+    6  git status
+    7  git commit -m "File is created"
+    8  git config --global user.email "sandeepkumaralle884@gmail.com"
+    9  git config --global user.name "sandeepkumaralle884"
+   10  git commit -m "File is created"
+   11  git remote add origin https://github.com/sandeepkumaralle8/devops_learning.git
+   12  git push -u origin master
+   13  history
+
